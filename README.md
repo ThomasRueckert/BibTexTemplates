@@ -4,8 +4,8 @@
 
 ```
 @misc{citeTitle,
-    title   = "XXX",
-    author  = "Max Mustermann and Maria Musterfrau",
+    title = "XXX",
+    author = "Max Mustermann and Maria Musterfrau",
     year = "YYYY",
     howpublished = "online",
     url = "http://url.de",
@@ -17,10 +17,10 @@
 
 ```
 @book{citeTitle,
-    title		= "XXX",
-    author  = "Max Mustermann and Maria Musterfrau",
-    year		= "YYYY",
-    month		= "MM",
+    title = "XXX",
+    author = "Max Mustermann and Maria Musterfrau",
+    year = "YYYY",
+    month = "MM",
     edition = "1st",
     publisher = "XXX",
     address = "XXX",
@@ -32,13 +32,13 @@
 
 ```
 @book{citeTitle,
-    title		= "XXX",
-    author		= "Max Mustermann and Maria Musterfrau",
-    organization	= "XXX",
-    year		= "YYYY",
-    month		= "MM",
-    howpublished 	= "online",
-    url 		= "http://url.de"
+    title = "XXX",
+    author = "Max Mustermann and Maria Musterfrau",
+    organization = "XXX",
+    year = "YYYY",
+    month = "MM",
+    howpublished = "online",
+    url = "http://url.de"
 }
 ```
 
