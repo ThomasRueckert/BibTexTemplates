@@ -24,7 +24,7 @@
     edition = "1st",
     publisher = "XXX",
     address = "XXX",
-    pages = {XXX--XXX, XXX--XXX}
+    pages = "XXX--XXX, XXX--XXX"
 }
 ```
 
@@ -46,8 +46,8 @@
 
 ```
 @article{citeTitle,
-    author = "Max Mustermann and Maria Musterfrau",
     title = "XXX",
+    author = "Max Mustermann and Maria Musterfrau",
     journal = "XXX",
     year = "YYYY",
     volume = "XX",
